@@ -1,0 +1,22 @@
+﻿<Authors>
+  <Wood>
+    <Breed>Сосна</Breed>
+    <Humidity>50</Humidity>
+    <Density>560</Density>
+  </Wood>
+  <Wood>
+    <Breed>Дуб</Breed>
+    <Humidity>45</Humidity>
+    <Density>1500</Density>
+  </Wood>
+  <Wood>
+    <Breed>Дуб</Breed>
+    <Humidity>69</Humidity>
+    <Density>765</Density>
+  </Wood>
+  <Wood>
+    <Breed>Пеньок</Breed>
+    <Humidity>63</Humidity>
+    <Density>500</Density>
+  </Wood>
+</Authors>

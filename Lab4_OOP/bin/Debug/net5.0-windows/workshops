@@ -1,0 +1,53 @@
+﻿<Workshops>
+  <Workshop>
+    <Count>1</Count>
+    <Lumbers>
+      <Lumber>
+        <Wood>
+          <Breed>Дуб</Breed>
+          <Humidity>45</Humidity>
+          <Density>1500</Density>
+        </Wood>
+        <SawingOption>rail</SawingOption>
+        <DateOfDelivery>01.01.0001 0:00:00</DateOfDelivery>
+        <Marking>3254</Marking>
+        <Quantity>324</Quantity>
+        <Price>15</Price>
+      </Lumber>
+    </Lumbers>
+  </Workshop>
+  <Workshop>
+    <Count>2</Count>
+    <Lumbers>
+      <Lumber>
+        <Wood>
+          <Breed>Пеньок</Breed>
+          <Humidity>63</Humidity>
+          <Density>500</Density>
+        </Wood>
+        <SawingOption>unedgedBoard</SawingOption>
+        <DateOfDelivery>01.01.0001 0:00:00</DateOfDelivery>
+        <Marking>23354</Marking>
+        <Quantity>285</Quantity>
+        <Price>365</Price>
+      </Lumber>
+    </Lumbers>
+  </Workshop>
+  <Workshop>
+    <Count>3</Count>
+    <Lumbers>
+      <Lumber>
+        <Wood>
+          <Breed>Дуб</Breed>
+          <Humidity>69</Humidity>
+          <Density>765</Density>
+        </Wood>
+        <SawingOption>edgedBoard</SawingOption>
+        <DateOfDelivery>01.01.0001 0:00:00</DateOfDelivery>
+        <Marking>546546</Marking>
+        <Quantity>25</Quantity>
+        <Price>1236</Price>
+      </Lumber>
+    </Lumbers>
+  </Workshop>
+</Workshops>
